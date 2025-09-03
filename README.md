@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Bhupendrakotliya
 - 👀 I’m interested in ...coading 
 - 🌱 I’m currently learning ...python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ 
+- 📫 
+- 😄
+- ⚡ 
 
 <!---
 Bhupendrakotliya/Bhupendrakotliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
