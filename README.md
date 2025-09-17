@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhupendrakotliya
-- 👀 I’m interested in ...coading 
+- 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...python 
 - 💞️ 
 - 📫 
